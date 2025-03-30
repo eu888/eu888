@@ -5,9 +5,13 @@
 </div>
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20879%26project%3D%26in=0">
 <img herf="https://img.shields.io/badge/just%20the%20message-8A2BE2" src="https://img.shields.io/badge/Made%20by%20Me88_88-8A2BE2">
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561199152216874/?cc=az))*
-* **Value:** $46
-* **Games owned:** 36
-* **Games played:** 15 *(41%)*
+# My Steam Profile
 
-* **Hours on record:** 135.6h
+## Profile Summary
+- **Value:** $51
+- **Games Owned:** 38
+- **Games Played:** 18 (47%)
+- **Hours on Record:** 190.2h
+
+## SteamDB Link
+You can view my Steam profile details on [SteamDB](https://steamdb.info/calculator/76561199152216874/?cc=az).
