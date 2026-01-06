@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 <!-- <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -12,17 +6,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MegaOS.visitor-badge"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as FTC leader and programer<br>- 📚 I'm currently learning assembly and java<br>- ⚡ In my free time I code my OS</p>
+<p align="left">- 📚 I'm currently learning assembly and java<br>- ⚡ In my free time I code my OS</p>
 
 ###
 
@@ -44,8 +32,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=eu888&theme=dark"/>
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D20879)](https://codetime.dev)
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MegaOS.visitor-badge"  />
 </div>
 
 ###
