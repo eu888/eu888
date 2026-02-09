@@ -1,7 +1,7 @@
 <h3 align="left"> Introduction </h3>
- I am an programmer coding for fun, Currently I am working on [my own OS] (www.github.com/eu888/MegaOS) .
+ I am an programmer coding for fun, Currently I am working on
+ <a href="https://github.com/eu888/MegaOS" >my own OS</a>. <br>
 
-[@eu888/MegaOS]
  
  I am programing in: 
 
