@@ -1,8 +1,24 @@
-I am an programmer coding for fun, currently I am working on my own os @eu888/MegaOS. I am programing in c, c++, asm x86 and java. 
+<h3 align="left"> Introduction </h3>
+ I am an programmer coding for fun, Currently I am working on [my own OS] (www.github.com/eu888/MegaOS) .
+
+[@eu888/MegaOS]
+ 
+ I am programing in: 
+
+* c;
+* c++;
+* asm x86;
+* some python;
+* java.
+
+My skills are:
+* low level programming ; 
+* understand some part of system design.
+
+I am also team leader and programmer of my school FTC team. More projects I made can be seen in the pined repos or in all my public repos. 
 
 <h3 align="left"> Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
